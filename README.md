@@ -47,7 +47,7 @@ The code calculates the ```std/mean``` for different mutation rates for both hyp
 
 ## Issues
 
-Found a bug? Want more features? Find something missing in the documentation? Let us know! Please don't hesitate to [file an issue](https://github.com/thierrygrimm/GeneExpressionPCA/issues/new) and make a recommendation.
+Found a bug? Want more features? Find something missing in the documentation? Let us know! Please don't hesitate to [file an issue](https://github.com/thierrygrimm/PopulationDynamics/issues/new) and make a recommendation.
 
 ## License
 ```
