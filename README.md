@@ -6,9 +6,9 @@ PopulationDynamics [![Donate](https://img.shields.io/badge/Donate-PayPal-green.s
 ## Organization
 ### Parts
 This project consists of three main parts
-* Genetic Drift
-* Finite populations and mutations
-* Acquired immunity and mutation immunity in the population
+* [Genetic Drift](https://github.com/thierrygrimm/PopulationDynamics/blob/master/Jupyter%20Notebooks/Genetic%20Drift.ipynb)
+* [Finite populations and mutations](https://github.com/thierrygrimm/PopulationDynamics/blob/master/Jupyter%20Notebooks/Finite%20populations%20and%20mutations.ipynb)
+* [Acquired immunity and mutation immunity in the population](https://github.com/thierrygrimm/PopulationDynamics/blob/master/Jupyter%20Notebooks/Mutations%20in%20the%20population.ipynb)
 
 ## Sections
 ### Genetic Drift
@@ -51,7 +51,7 @@ Found a bug? Want more features? Find something missing in the documentation? Le
 
 ## License
 ```
-PopulationDynamics - A collection of computational-biological population dynamics simulation.
+PopulationDynamics - A collection of computational-biological population dynamics simulations.
 
 The MIT License (MIT)
 
@@ -74,4 +74,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-```me
+```
